@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=ADC1|SchDesignator=ADC1|FileName=ADC.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=ADC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=BIO1|SchDesignator=BIO1|FileName=BoardInterfaces.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BoardInterfaces.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=INT1|SchDesignator=INT1|FileName=Integrators.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Integrators.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=PWR1|SchDesignator=PWR1|FileName=Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=TIA1|SchDesignator=TIA1|FileName=TIA.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=TIA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
