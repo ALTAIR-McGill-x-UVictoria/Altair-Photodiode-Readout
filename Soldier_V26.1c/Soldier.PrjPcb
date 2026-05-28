@@ -765,6 +765,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDKBZWEQ
 
+[Parameter1]
+Name=Revision
+Value=V26C (V26.4a)
+
+[Parameter2]
+Name=DrawnBy
+Value=Nicholas Sandor
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
