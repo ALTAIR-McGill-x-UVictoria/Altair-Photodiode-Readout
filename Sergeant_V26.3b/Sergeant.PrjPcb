@@ -787,16 +787,12 @@ DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant
 DItemRevisionGUID=
 
 [Parameter1]
-Name=
-Value=
+Name=DrawnBy
+Value=Nicholas Sandor
 
 [Parameter2]
 Name=Revision
 Value=V26C (V26.4b)
-
-[Parameter3]
-Name=DrawnBy
-Value=Nicholas Sandor
 
 [Configuration1]
 Name=Sources

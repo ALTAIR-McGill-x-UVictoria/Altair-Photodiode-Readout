@@ -800,7 +800,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YNURXGUS
 
 [Document45]
-DocumentPath=ALTAIR_PD_Sergeant_V26.3b.PcbDoc
+DocumentPath=ALTAIR_PD_Soldier_V26.4c.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -816,21 +816,190 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQJWSDCJ
 
+[Document46]
+DocumentPath=..\..\ALTAIRPD\Soldier_V26.1c\Output.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
+DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\ALTAIR_PD_Soldier_V26.4c.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.G1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.G2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GM
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\ALTAIR_PD_Soldier_V26.4c.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
+DItemRevisionGUID=
+
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Sergeant_Soldiered\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
 DItemRevisionGUID=
 
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Sergeant_Soldiered\Design Rule Check - ALTAIR_PD_Soldier_V26.html
+DItemRevisionGUID=
+
 [Parameter1]
+Name=Revision
+Value=V26C (V26.4c)
+
+[Parameter2]
 Name=DrawnBy
 Value=Nicholas Sandor
 
-[Parameter2]
-Name=Revision
-Value=V26C (V26.4b)
+[Parameter3]
+Name=
+Value=
 
 [Configuration1]
 Name=Sources

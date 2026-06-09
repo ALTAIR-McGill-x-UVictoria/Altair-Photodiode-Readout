@@ -52,6 +52,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Libraries\Connectors\ALTAIR_PD_Headers.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUWBTAUD
+
+[Document2]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Coaxial.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -68,7 +85,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document2]
+[Document3]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Coaxial.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,23 +101,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NODDRAJO
-
-[Document3]
-DocumentPath=Libraries\Connectors\ALTAIR_PD_Headers.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BUWBTAUD
 
 [Document4]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Headers.SchLib
@@ -766,12 +766,12 @@ GenerateClassCluster=0
 DocumentUniqueId=TDKBZWEQ
 
 [Parameter1]
-Name=Revision
-Value=V26C (V26.4a)
-
-[Parameter2]
 Name=DrawnBy
 Value=Nicholas Sandor
+
+[Parameter2]
+Name=Revision
+Value=V26C (V26.4a)
 
 [Configuration1]
 Name=Sources
