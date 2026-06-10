@@ -52,7 +52,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=top_SarSol.SchDoc
+DocumentPath=top_Soldier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,6 +69,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OAHAAQHX
 
 [Document2]
+DocumentPath=BoardInterfaces_Soldier.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SJYHIVOG
+
+[Document3]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Headers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DRNIWGRC
 
-[Document3]
+[Document4]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Coaxial.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NODDRAJO
 
-[Document4]
+[Document5]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_USB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFTUEPYZ
 
-[Document5]
+[Document6]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Pogo.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXTXYTMB
 
-[Document6]
+[Document7]
 DocumentPath=Libraries\Mounting\ALTAIR_PD_MountHoles.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THXPCQLU
 
-[Document7]
+[Document8]
 DocumentPath=Libraries\Passives\ALTAIR_PD_Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZRGMOKVC
 
-[Document8]
+[Document9]
 DocumentPath=Libraries\Passives\ALTAIR_PD_Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTQEIXWD
 
-[Document9]
+[Document10]
 DocumentPath=Libraries\ICs\ALTAIR_PD_Amplifiers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRVHUAXK
 
-[Document10]
+[Document11]
 DocumentPath=Libraries\ICs\ALTAIR_PD_ClockParts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAHRKUSN
 
-[Document11]
+[Document12]
 DocumentPath=Libraries\ICs\ALTAIR_PD_ADCs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCAZRZKF
 
-[Document12]
+[Document13]
 DocumentPath=Libraries\ICs\ALTAIR_PD_Regulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKEQSFYU
 
-[Document13]
+[Document14]
 DocumentPath=Libraries\ICs\ALTAIR_PD_Converters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOTEIGIU
 
-[Document14]
+[Document15]
 DocumentPath=Libraries\ICs\ALTAIR_PD_Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFZLBDIY
 
-[Document15]
+[Document16]
 DocumentPath=Libraries\Semiconductors\ALTAIR_PD_Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFBYRHZZ
 
-[Document16]
+[Document17]
 DocumentPath=Libraries\Semiconductors\ALTAIR_PD_FETs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFWPDGAG
 
-[Document17]
+[Document18]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Testpoint.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -340,7 +357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZFVNKODA
 
-[Document18]
+[Document19]
 DocumentPath=Libraries\ICs\ALTAIR_PD_MiscPower.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -357,7 +374,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRFAEQBF
 
-[Document19]
+[Document20]
 DocumentPath=Libraries\ICs\ALTAIR_PD_DigitalLogic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -374,7 +391,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBTPIZYT
 
-[Document20]
+[Document21]
 DocumentPath=Libraries\Passives\ALTAIR_PD_Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -391,25 +408,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OORJXFQQ
 
-[Document21]
-DocumentPath=BoardInterfaces_SarSol.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SJYHIVOG
-
 [Document22]
-DocumentPath=Power_SarSol.SchDoc
+DocumentPath=Power_Soldier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -426,7 +426,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KAZXSDME
 
 [Document23]
-DocumentPath=TIA_SarSol.SchDoc
+DocumentPath=TIA_Soldier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -443,7 +443,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VWWHWINY
 
 [Document24]
-DocumentPath=Integrators_SarSol.SchDoc
+DocumentPath=Integrators_Soldier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -460,7 +460,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OSNPSXTO
 
 [Document25]
-DocumentPath=ADC_SarSol.SchDoc
+DocumentPath=ADC_Soldier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -749,23 +749,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document42]
-DocumentPath=..\Soldier_V26.1c\Libraries\Connectors\ALTAIR_PD_Headers.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GEZXIYIQ
-
-[Document43]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -782,24 +765,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
-DocumentPath=..\Soldier_V26.1c\Libraries\Connectors\ALTAIR_PD_Pogo.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YNURXGUS
-
-[Document45]
+[Document43]
 DocumentPath=ALTAIR_PD_Soldier_V26.4c.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -816,8 +782,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQJWSDCJ
 
-[Document46]
-DocumentPath=..\..\ALTAIRPD\Soldier_V26.1c\Output.OutJob
+[Document44]
+DocumentPath=StandardOutPCBWAY.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -834,159 +800,79 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c-RoundHoles.TXT
+DocumentPath=Project Outputs for Soldier\Generated_Fab\NC Drill\ALTAIR_PD_Soldier_V26.4c-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c-RoundHoles.TXT
+DocumentPath=Project Outputs for Soldier\Generated_Fab\NC Drill\ALTAIR_PD_Soldier_V26.4c-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c-SlotHoles.TXT
+DocumentPath=Project Outputs for Soldier\Generated_Fab\NC Drill\ALTAIR_PD_Soldier_V26.4c.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c-SlotHoles.TXT
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c.DRR
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c.DRR
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.G2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\ALTAIR_PD_Soldier_V26.4c.EXTREP
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.EXTREP
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.G1
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.G2
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBL
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBO
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBP
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GM
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GBS
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GD1
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GG1
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GM
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTL
+DocumentPath=Project Outputs for Soldier\Generated_Fab\NC Drill\ALTAIR_PD_Soldier_V26.4c.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ALTAIR_PD_Soldier_V26.4c.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Sergeant_Soldiered\NC Drill\ALTAIR_PD_Soldier_V26.4c.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\Gerber\ALTAIR_PD_Soldier_V26.4c.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c.REP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Gerber\ALTAIR_PD_Soldier_V26.4c_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Sergeant_Soldiered\Design Rule Check - ALTAIR_PD_Soldier_V26.html
+DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.REP
 DItemRevisionGUID=
 
 [Parameter1]
