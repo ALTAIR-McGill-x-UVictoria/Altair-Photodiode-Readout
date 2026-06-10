@@ -698,7 +698,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVUQWBOI
 
 [Document39]
-DocumentPath=ALTAIR_PD_Sergeant_V26.3b.PCBDwf
+DocumentPath=ALTAIR_PD_Soldier_V26.4c.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -715,7 +715,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DJCIJRCH
 
 [Document40]
-DocumentPath=Sergeant.BomDoc
+DocumentPath=Soldier.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -732,7 +732,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document41]
-DocumentPath=..\Soldier_V26.1c\Libraries\Connectors\ALTAIR_PD_Headers.PcbLib
+DocumentPath=Libraries\Connectors\ALTAIR_PD_Pogo.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -766,7 +766,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GEZXIYIQ
 
 [Document43]
-DocumentPath=..\Soldier_V26.1c\Libraries\Connectors\ALTAIR_PD_Pogo.PcbLib
+DocumentPath=Libraries\Connectors\ALTAIR_PD_Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

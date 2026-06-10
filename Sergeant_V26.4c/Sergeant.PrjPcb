@@ -698,7 +698,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AXYWKPVA
 
 [Document39]
-DocumentPath=Constraints.xml
+DocumentPath=StandardOutPCBWAY.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -715,7 +715,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=ALTAIR_PD_Sergeant_V26.3b.PcbDoc
+DocumentPath=Constraints.xml
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document41]
+DocumentPath=ALTAIR_PD_Sergeant_V26.4c.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -731,7 +748,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQJWSDCJ
 
-[Document41]
+[Document42]
 DocumentPath=Libraries\Semiconductors\ALTAIR_PD_BJTs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -748,8 +765,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVUQWBOI
 
-[Document42]
-DocumentPath=ALTAIR_PD_Sergeant_V26.3b.PCBDwf
+[Document43]
+DocumentPath=ALTAIR_PD_Sergeant_V26.4c.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -765,7 +782,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJCIJRCH
 
-[Document43]
+[Document44]
 DocumentPath=Sergeant.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1831,9 +1848,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ALTAIR_PD_Headers.SchLib
-ComponentDesignItemID0=DF19-20P-1V_52_
-ComponentSymbolReference0=DF19-20P-1V_52_
+ComponentLibraryIdentifier0=ALTAIR_PD_Resistors.SchLib
+ComponentDesignItemID0=RES
+ComponentSymbolReference0=RES
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1849,35 +1866,29 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Arrow Part Number
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Arrow Price/Stock
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=Datasheet Link
+ParameterName4=MF
 ParameterUpdate4=1
-ParameterName5=Description
+ParameterName5=MP
 ParameterUpdate5=1
-ParameterName6=Height
-ParameterUpdate6=1
-ParameterName7=Library Reference
-ParameterUpdate7=1
-ParameterName8=Manufacturer_Name
-ParameterUpdate8=1
-ParameterName9=Manufacturer_Part_Number
-ParameterUpdate9=1
-ParameterName10=Mouser Part Number
-ParameterUpdate10=1
-ParameterName11=Mouser Price/Stock
-ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=DF1920P1V52
+ModelName0=RES 0603 IPC MID DENSITY
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=RESC1005X40X25LL05T10
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=RESC1005X40X25ML05T10
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
