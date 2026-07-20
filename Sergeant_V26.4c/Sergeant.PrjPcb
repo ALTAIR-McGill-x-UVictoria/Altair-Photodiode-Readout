@@ -868,12 +868,12 @@ DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergean
 DItemRevisionGUID=
 
 [Parameter1]
-Name=DrawnBy
-Value=Nicholas Sandor
+Name=Revision
+Value=V26C* (V26.4d)
 
 [Parameter2]
-Name=Revision
-Value=V26C (V26.4b)
+Name=DrawnBy
+Value=Nicholas Sandor
 
 [Configuration1]
 Name=Sources
