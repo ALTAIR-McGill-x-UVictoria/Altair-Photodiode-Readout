@@ -867,9 +867,13 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.REP
 DItemRevisionGUID=
 
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
-Value=V26C* (V26.4d)
+Value=V26C' (V26.4e)
 
 [Parameter2]
 Name=DrawnBy

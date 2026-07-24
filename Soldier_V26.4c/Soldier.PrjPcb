@@ -746,7 +746,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VUJBUBTR
 
 [Document42]
 DocumentPath=Libraries\Connectors\ALTAIR_PD_Headers.PcbLib
@@ -763,7 +763,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BUWBTAUD
 
 [Document43]
 DocumentPath=ALTAIR_PD_Soldier_V26.4c.PcbDoc
@@ -875,9 +875,13 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Soldier\Generated_Fab\Gerber\ALTAIR_PD_Soldier_V26.4c.REP
 DItemRevisionGUID=
 
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Soldier\Design Rule Check - ALTAIR_PD_Soldier_V26.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
-Value=V26C* (V26.4d)
+Value=V26C' (V26.4e)
 
 [Parameter2]
 Name=DrawnBy
