@@ -1,9 +1,9 @@
 ﻿[Design]
 Version=1.0
 HierarchyMode=0
-ChannelRoomNamingStyle=0
+ChannelRoomNamingStyle=1
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -800,7 +800,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document45]
-DocumentPath=ALTAIR_PD_Sergeant_V26.4c.PcbDoc
+DocumentPath=ALTAIR_PD_Squad_V26.5a.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -974,12 +974,12 @@ DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant
 DItemRevisionGUID=
 
 [Parameter1]
-Name=DrawnBy
-Value=Nicholas Sandor
-
-[Parameter2]
 Name=Revision
 Value=V26C'' (V26.4e)
+
+[Parameter2]
+Name=DrawnBy
+Value=Nicholas Sandor
 
 [Configuration1]
 Name=Sources
