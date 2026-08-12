@@ -834,7 +834,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVUQWBOI
 
 [Document47]
-DocumentPath=ALTAIR_PD_Sergeant_V26.4c.PCBDwf
+DocumentPath=ALTAIR_PD_Squad_V26.4c.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -851,7 +851,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DJCIJRCH
 
 [Document48]
-DocumentPath=Sergeant.BomDoc
+DocumentPath=Squad.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -973,13 +973,17 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
 DItemRevisionGUID=
 
-[Parameter1]
-Name=Revision
-Value=V26C'' (V26.4e)
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Squad\Design Rule Check - ALTAIR_PD_Squad_V26.html
+DItemRevisionGUID=
 
-[Parameter2]
+[Parameter1]
 Name=DrawnBy
 Value=Nicholas Sandor
+
+[Parameter2]
+Name=Revision
+Value=V26C'' (V26.4e)
 
 [Configuration1]
 Name=Sources
