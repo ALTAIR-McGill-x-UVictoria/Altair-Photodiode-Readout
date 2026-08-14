@@ -901,6 +901,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGJUCHIU
 
+[Document51]
+DocumentPath=ALTAIR_PD_Squad_V26.5a_cut.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TKXRBNFE
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c-RoundHoles.TXT
 DItemRevisionGUID=
@@ -970,11 +987,87 @@ DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergean
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.G1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.G2
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GM
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Squad\Generated_Fab\ExportSTEP\ALTAIR_PD_Squad_V26.5a.step
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
+DItemRevisionGUID=
+
+[GeneratedDocument37]
 DocumentPath=Project Outputs for Squad\Design Rule Check - ALTAIR_PD_Squad_V26.html
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Pick Place\Pick Place for ALTAIR_PD_Squad_V26.5a.csv
 DItemRevisionGUID=
 
 [Parameter1]
@@ -1365,15 +1458,19 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=True|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=CAD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration1_Name4=GroupOrder
-Configuration1_Item4=MP=True
+Configuration1_Item4=
 Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Item5=Supplier Subtotal 1=Down
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=MF=100|MP=100|Comment=120|Designator=120|Quantity=120|Description=120|Footprint=120
-Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=MF=100|MP=100|Comment=120|Designator=120|Quantity=120|Description=120|Footprint=120
+Configuration1_Item6=Line #=54|Description=365|Designator=390|Quantity=67|BOM Status=84|ACS Manufacturer Lifecycle Status=196|Comment=301|LCSC PN=65|Manufacturer 1=115|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name7=VisibleOrder_Base
+Configuration1_Item7=Line #=54|Description=365|Designator=390|Quantity=67|BOM Status=84|ACS Manufacturer Lifecycle Status=196|Comment=301|LCSC PN=65|Manufacturer 1=115|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name8=VisibleOrder_Consolidated
+Configuration1_Item8=Line #=54|Comment=120|Description=690|Quantity=67|Designator=120|MN=50|MF=120|MP=210|Manufacturer 1=115|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=217|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration1_Name9=VisibleOrder_Flat
+Configuration1_Item9=Line #=54|Comment=120|Description=597|Designator=80|MF=243|MN=106|MP=193|Manufacturer 1=115|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
