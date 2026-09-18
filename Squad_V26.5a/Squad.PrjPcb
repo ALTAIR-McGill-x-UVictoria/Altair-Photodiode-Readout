@@ -1002,6 +1002,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Squad\Generated_Fab\Pick Place\Pick Place for ALTAIR_PD_Squad_V26.5a.csv
 DItemRevisionGUID=
 
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Squad\Squad.NET
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=V26D (V26.5a)
@@ -1164,6 +1168,10 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+Configuration20_Name1=ForceUpdateSettings
+Configuration20_Item1=False
+Configuration20_Name2=OutputConfigurationParameter1
+Configuration20_Item2=WNWWWNN|ERCConnectionMatrixL13=NNNNNNNNNNNWNNNWW|ERCConnectionMatrixL14=NWEENEENENEWNEEWW|ERCConnectionMatrixL15=NNENNNNNEENWNENWW|ERCConnectionMatrixL16=WWWWNWWNWWWNWWWNW|ERCConnectionMatrixL17=WNNNNNNNWNNNWWWWN|ERCConnectionMatrixL2=NNWNNNNNWWNWNWNWN|ERCConnectionMatrixL3=NWEENEENENEWNEEWN|ERCConnectionMatrixL4=NNENNNWNENNWNENWN|ERCConnectionMatrixL5=NNNNNNNNNNNNNNNNN|ERCConnectionMatrixL6=NNENNNNNENNWNENWN|ERCConnectionMatrixL7=NNEWNNWNENNWNENWN|ERCConnectionMatrixL8=NNNNNNNNNNNNNNNNN|ERCConnectionMatrixL9=NWEENEENENEWNEEWW|ERCDocumentColumnOrder=1|ERCDocumentColumnSort=0|ERCDocumentColumnVisibility=True|ERCMessageColumnOrder=2|ERCMessageColumnSort=0|ERCMessageColumnVisibility=True|ERCReportGrouping=2|ERCReportMode=0|ERCReportSuppressedErrors=False|ERCType1=0|ERCType10=0|ERCType100=2|ERCType101=0|ERCType102=2|ERCType103=2|ERCType104=1|ERCType105=2|ERCType106=2|ERCType107=2|ERCType108=2|ERCType109=1|ERCType11=2|ERCType110=1|ERCType111=1|ERCType112=1|ERCType113=1|ERCType114=2|ERCType115=2|ERCType116=2|ERCType117=3|ERCType118=3|ERCType119=3|ERCType12=1|ERCType120=0|ERCType121=3|ERCType122=2|ERCType123=1|ERCType124=1|ERCType125=1|ERCType126=1|ERCType127=1|ERCType128=2|ERCType129=2|ERCType13=2|ERCType130=2|ERCType131=2|ERCType132=2|ERCType133=2|ERCType134=2|ERCType135=2|ERCType136=2|ERCType137=2|ERCType138=1|ERCType139=1|ERCType14=0|ERCType140=1|ERCType141=1|ERCType142=1|ERCType143=1|ERCType144=1|ERCType145=1|ERCType146=1|ERCType147=2|ERCType148=2|ERCType149=2|ERCType15=1|ERCType150=2|ERCType151=2|ERCType152=1|ERCType153=1|ERCType154=0|ERCType155=0|ERCType156=0|ERCType157=0|ERCType158=0|ERCType159=0|ERCType16=1|ERCType160=0|ERCType161=0|ERCType162=1|ERCType163=1|ERCType164=1|ERCType165=2|ERCType17=1|ERCType18=1|ERCType19=1|ERCType2=1|ERCType20=0|ERCType21=0|ERCType22=0|ERCType23=0|ERCType24=1|ERCType25=2|ERCType26=0|ERCType27=2|ERCType28=1|ERCType29=1|ERCType3=2|ERCType30=1|ERCType31=1|ERCType32=2|ERCType33=0|ERCType34=2|ERCType35=1|ERCType36=2|ERCType37=1|ERCType38=2|ERCType39=2|ERC¸ype4=1|ERCType40=2|ERCType41=0|ERCType42=2|ERCType43=1|ERCType44=0|ERCType45=0|ERCType46=0|ERCType47=0|ERCType48=0|ERCType49=0|ERCType5=2|ERCType50=2|ERCType51=0|ERCType52=0|ERCType53=1|ERCType54=1|ERCType55=1|ERCType56=2|ERCType57=1|ERCType58=1|ERCType59=2|ERCType6=2|ERCType60=0|ERCType61=0|ERCType62=0|ERCType63=0|ERCType64=0|ERCType65=2|ERCType66=3|ERCType67=2|ERCType68=2|ERCType69=0|ERCType7=0|ERCType70=2|ERCType71=2|ERCType72=2|ERCType73=2|ERCType74=1|ERCType75=2|ERCType76=1|ERCType77=1|ERCType78=1|ERCType79=1|ERCType8=1|ERCType80=2|ERCType81=3|ERCType82=3|ERCType83=3|ERCType84=3|ERCType85=3|ERCType86=2|ERCType87=2|ERCType88=2|ERCType89=1|ERCType9=1|ERCType90=1|ERCType91=3|ERCType92=3|ERCType93=2|ERCType94=2|ERCType95=2|ERCType96=2|ERCType97=2|ERCType98=0|ERCType99=1|ERCValidationErrorLevel=1|Record=ERCReportView|DocumentPath=C:\Users\nsandor\OneDrive - University of Victoria\Documents\ALTAIR\Altair-Photodiode-Readout\Sergeant_V26.4c\Sergeant.PrjPcb
 OutputType21=XSpiceNetlist
 OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
@@ -1259,7 +1267,7 @@ OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.64|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=Tabloid|PaperIndex=3
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\nsandor\OneDrive - University of Victoria\Documents\ALTAIR\Altair-Photodiode-Readout\Sergeant_V26.3b\top.SchDoc
+Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\nsandor\OneDrive - University of Victoria\Documents\ALTAIR\Altair-Photodiode-Readout\Squad_V26.5a\top_Squad.SchDoc
 OutputType13=SimView Print
 OutputName13=SimView Prints
 OutputDocumentPath13=
