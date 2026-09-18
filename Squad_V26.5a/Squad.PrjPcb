@@ -409,7 +409,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SJYHIVOG
 
 [Document22]
-DocumentPath=PositivePwr.SchDoc
+DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
