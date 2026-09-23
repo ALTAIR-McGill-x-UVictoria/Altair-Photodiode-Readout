@@ -1007,12 +1007,12 @@ DocumentPath=Project Outputs for Squad\Squad.NET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=V26D (V26.5a)
-
-[Parameter2]
 Name=DrawnBy
 Value=Nicholas Sandor
+
+[Parameter2]
+Name=Revision
+Value=V26D (V26.5a)
 
 [Configuration1]
 Name=Sources
@@ -2059,9 +2059,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ALTAIR_PD_Headers.SchLib
-ComponentDesignItemID0=FTSH-110-01-X-DV-K-TR
-ComponentSymbolReference0=FTSH-110-01-X-DV-K-TR
+ComponentLibraryIdentifier0=ALTAIR_PD_Switches.SchLib
+ComponentDesignItemID0=3-1462037-1
+ComponentSymbolReference0=3-1462037-1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -2077,7 +2077,7 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Availability
+ParameterName0=Check_prices
 ParameterUpdate0=1
 ParameterName1=Comment
 ParameterUpdate1=1
@@ -2085,22 +2085,24 @@ ParameterName2=Component Kind
 ParameterUpdate2=1
 ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=EU_RoHS_Compliance
 ParameterUpdate4=1
-ParameterName5=MF
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=MP
+ParameterName6=MF
 ParameterUpdate6=1
-ParameterName7=Package
+ParameterName7=MP
 ParameterUpdate7=1
-ParameterName8=Price
+ParameterName8=Package
 ParameterUpdate8=1
-ParameterName9=Value
+ParameterName9=SnapEDA_Link
 ParameterUpdate9=1
+ParameterName10=Value
+ParameterUpdate10=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SAMTEC_FTSH-110-01-X-DV-K-TR
+ModelName0=RELAY_3-1462037-1
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
