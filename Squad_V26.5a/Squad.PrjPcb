@@ -766,7 +766,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVUQWBOI
 
 [Document43]
-DocumentPath=ALTAIR_PD_Squad_V26.4c.PCBDwf
+DocumentPath=ALTAIR_PD_Squad_V26.5a.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -833,176 +833,163 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGJUCHIU
 
-[Document47]
-DocumentPath=ALTAIR_PD_Squad_V26.5a_cut.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TKXRBNFE
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c-RoundHoles.TXT
+DocumentPath=https://uvic-my.sharepoint.com/personal/nsandor_uvic_ca/Documents/Documents/ALTAIR/Altair-Photodiode-Readout/Squad_V26.5a/Project Outputs for Squad/Generated_Fab/BOM/Bill of Materials-Squad.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c-SlotHoles.TXT
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c.DRR
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.EXTREP
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.G1
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.G2
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBL
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBO
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBP
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBS
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GM
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTL
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GM
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTO
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTP
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTS
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c.LDP
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.REP
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\NC Drill\ALTAIR_PD_Sergeant_V26.4c.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a-RoundHoles.TXT
+DocumentPath=Project Outputs for Sergeant\Generated_Fab\Gerber\ALTAIR_PD_Sergeant_V26.4c.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a-SlotHoles.TXT
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a.DRR
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.EXTREP
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.G1
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.G2
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.G1
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBL
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.G2
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBO
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBP
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBS
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GM
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTL
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GM
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTO
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTP
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTS
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a.LDP
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.REP
+DocumentPath=Project Outputs for Squad\Generated_Fab\NC Drill\ALTAIR_PD_Squad_V26.5a.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Squad\Generated_Fab\ExportSTEP\ALTAIR_PD_Squad_V26.5a.step
+DocumentPath=Project Outputs for Squad\Generated_Fab\Gerber\ALTAIR_PD_Squad_V26.5a.REP
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
+DocumentPath=Project Outputs for Squad\Generated_Fab\ExportSTEP\ALTAIR_PD_Squad_V26.5a.step
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Squad\Design Rule Check - ALTAIR_PD_Squad_V26.html
+DocumentPath=Project Outputs for Sergeant\Design Rule Check - ALTAIR_PD_Sergeant_V26.html
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Squad\Generated_Fab\Pick Place\Pick Place for ALTAIR_PD_Squad_V26.5a.csv
+DocumentPath=Project Outputs for Squad\Design Rule Check - ALTAIR_PD_Squad_V26.html
 DItemRevisionGUID=
 
 [GeneratedDocument39]
+DocumentPath=Project Outputs for Squad\Generated_Fab\Pick Place\Pick Place for ALTAIR_PD_Squad_V26.5a.csv
+DItemRevisionGUID=
+
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Squad\Squad.NET
 DItemRevisionGUID=
 
@@ -2059,9 +2046,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ALTAIR_PD_Switches.SchLib
-ComponentDesignItemID0=3-1462037-1
-ComponentSymbolReference0=3-1462037-1
+ComponentLibraryIdentifier0=ALTAIR_PD_ADCs.SchLib
+ComponentDesignItemID0=ADS124S08IRHBT
+ComponentSymbolReference0=ADS124S08IRHBT
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -2077,32 +2064,62 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Check_prices
+ParameterName0=Case/Package
 ParameterUpdate0=1
-ParameterName1=Comment
+ParameterName1=Category
 ParameterUpdate1=1
-ParameterName2=Component Kind
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Description
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=EU_RoHS_Compliance
+ParameterName4=ComponentLink1Description
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=ComponentLink1URL
 ParameterUpdate5=1
-ParameterName6=MF
+ParameterName6=ComponentLink2Description
 ParameterUpdate6=1
-ParameterName7=MP
+ParameterName7=ComponentLink2URL
 ParameterUpdate7=1
-ParameterName8=Package
+ParameterName8=Description
 ParameterUpdate8=1
-ParameterName9=SnapEDA_Link
+ParameterName9=Interface
 ParameterUpdate9=1
-ParameterName10=Value
+ParameterName10=Library Reference
 ParameterUpdate10=1
+ParameterName11=Manufacturer 1
+ParameterUpdate11=1
+ParameterName12=Manufacturer Part Number 1
+ParameterUpdate12=1
+ParameterName13=Max Operating Temperature
+ParameterUpdate13=1
+ParameterName14=Min Operating Temperature
+ParameterUpdate14=1
+ParameterName15=Mount
+ParameterUpdate15=1
+ParameterName16=Number of A/D Converters
+ParameterUpdate16=1
+ParameterName17=Number of Bits
+ParameterUpdate17=1
+ParameterName18=Number of Inputs
+ParameterUpdate18=1
+ParameterName19=Number of Pins
+ParameterUpdate19=1
+ParameterName20=Packaging
+ParameterUpdate20=1
+ParameterName21=RoHS
+ParameterUpdate21=1
+ParameterName22=Sampling Rate
+ParameterUpdate22=1
+ParameterName23=Stock 1
+ParameterUpdate23=1
+ParameterName24=Supplier 1
+ParameterUpdate24=1
+ParameterName25=Supplier Part Number 1
+ParameterUpdate25=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=RELAY_3-1462037-1
+ModelName0=32TQFP 7X7MM IPC LOW DENSITY
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
