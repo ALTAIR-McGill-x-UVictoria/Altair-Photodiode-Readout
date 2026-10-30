@@ -994,12 +994,12 @@ DocumentPath=Project Outputs for Squad\Squad.NET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=DrawnBy
-Value=Nicholas Sandor
+Name=Revision
+Value=V26D' (V26.5b)
 
 [Parameter2]
-Name=Revision
-Value=V26D (V26.5a)
+Name=DrawnBy
+Value=Nicholas Sandor
 
 [Configuration1]
 Name=Sources
